@@ -21,6 +21,11 @@
 // a.setAttribute('name', 'hakim')
 
 //classList
-const p2 = document.querySelector('.p2')
+// const p2 = document.querySelector('.p2')
 // p2.classList.add('label')
 // p2.classList.remove('label')
+
+// document.body.classList.toggle('biru-muda')
+// p2.classList.item('2')
+
+//p2.classList.replace('dua', 'empat')
